@@ -1,0 +1,10 @@
+.logo2{
+position: absolute;
+width: 74px;
+height: 70px;
+left: 1100px;
+top: 24px;
+
+background: url("./personita.png"), linear-gradient(136.35deg, #017BC6 0%, #7CD2DF 100%);
+border-radius: 6px;
+}

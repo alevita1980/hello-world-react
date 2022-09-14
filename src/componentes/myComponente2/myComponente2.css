@@ -1,0 +1,10 @@
+.logo{
+    position: absolute;
+    width: 74px;
+    height: 70px;
+    left: 900px;
+    top: 20px;
+
+    background: url("./corazon.png"), linear-gradient(136.35deg, #761D99 0%, #CB1288 100%);
+    border-radius: 6px;
+}
